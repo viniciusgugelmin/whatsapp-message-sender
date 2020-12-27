@@ -3,7 +3,7 @@
     <img src="info/readme.png" alt="readme-logo" width="80" height="80">
   </a>
 
-  <h3 align="center">game-page-up</h3>
+  <h3 align="center">whatsapp-message-sender</h3>
 
   <p align="center">
     Game page
@@ -64,4 +64,4 @@ Any contributions you make are **greatly appreciated**.
 
 Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-Project Link: [https://github.com/viniciusgugelmin/game-page-up](https://github.com/viniciusgugelmin/whatsapp-message-sender)
+Project Link: [https://github.com/viniciusgugelmin/whatsapp-message-sender](https://github.com/viniciusgugelmin/whatsapp-message-sender)
