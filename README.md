@@ -38,8 +38,8 @@
 
 ## About The Project
 4fun project - message sender
-Read a variable or a txt file and send to some friend in whatsapp
 
+Read a variable or a txt file and send to some friend in whatsapp
 
 
 ## Roadmap
