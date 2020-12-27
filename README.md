@@ -6,7 +6,7 @@
   <h3 align="center">whatsapp-message-sender</h3>
 
   <p align="center">
-    Game page
+    WhatsApp message sender
     <br />
     <a href="https://github.com/viniciusgugelmin/whatsapp-message-sender"><strong>Explore the docs »</strong></a>
     <br />
