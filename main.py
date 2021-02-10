@@ -31,5 +31,5 @@ for contact in contacts:
     for message in messsages:
          send_message(message)
     ##for line in text:
-        ##enviar_mensagem(line)
+        ##send_message(line)
 

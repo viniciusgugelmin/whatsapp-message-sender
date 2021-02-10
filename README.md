@@ -3,10 +3,10 @@
     <img src="info/readme.png" alt="readme-logo" width="80" height="80">
   </a>
 
-  <h3 align="center">game-page-up</h3>
+  <h3 align="center">whatsapp-message-sender</h3>
 
   <p align="center">
-    Game page
+    WhatsApp message sender
     <br />
     <a href="https://github.com/viniciusgugelmin/whatsapp-message-sender"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,7 +37,9 @@
 
 
 ## About The Project
+4fun project - message sender
 
+Read a variable or a txt file and send to some friend in whatsapp
 
 
 ## Roadmap
@@ -62,4 +64,4 @@ Any contributions you make are **greatly appreciated**.
 
 Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-Project Link: [https://github.com/viniciusgugelmin/game-page-up](https://github.com/viniciusgugelmin/whatsapp-message-sender)
+Project Link: [https://github.com/viniciusgugelmin/whatsapp-message-sender](https://github.com/viniciusgugelmin/whatsapp-message-sender)
